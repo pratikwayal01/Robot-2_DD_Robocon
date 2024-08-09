@@ -28,11 +28,11 @@ The robot performs these tasks autonomously, leveraging advanced algorithms and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repo/fully-automatic-robot-2.git
+    git clone https://github.com/pratikwayal01/Robot-2_DD_Robocon-.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd fully-automatic-robot-2
+    cd Robot-2_DD_Robocon
     ```
 3. Open the Arduino IDE and load the `Robot_2.ino` file.
 4. Ensure all necessary libraries are installed (see `Libraries` folder).
