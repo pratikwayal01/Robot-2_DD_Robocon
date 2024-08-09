@@ -38,6 +38,14 @@ The robot performs these tasks autonomously, leveraging advanced algorithms and 
 4. Ensure all necessary libraries are installed (see `Libraries` folder).
 5. Upload the code to your Arduino board.
 
+### Libraries Used
+
+- **[CytronMotorDriver-master](https://github.com/CytronTechnologies/CytronMotorDriver)**: For controlling the motor drivers.
+- **[LSA08](https://github.com/shashank3199/LSA08r)**: Used for line following sensors.
+- **[pixy2-master](https://github.com/charmedlabs/pixy2)**: For interfacing with the Pixy2 camera.
+
+Please download and install these libraries via the provided links.
+
 ### Usage
 
 To run the robot's main program:
