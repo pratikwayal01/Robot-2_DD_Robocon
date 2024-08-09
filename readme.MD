@@ -28,7 +28,7 @@ The robot performs these tasks autonomously, leveraging advanced algorithms and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/pratikwayal01/Robot-2_DD_Robocon-.git
+    git clone https://github.com/pratikwayal01/Robot-2_DD_Robocon.git
     ```
 2. Navigate to the project directory:
     ```sh
