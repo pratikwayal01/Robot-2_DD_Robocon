@@ -1,8 +1,8 @@
-## 🗒️ README for Fully Automatic Robot-2
+## 🗒️ DD Robocon 2024 Robot-2 (Fully Automatic)
 
 ### Introduction
 
-Welcome to the repository for Fully Automatic Robot-2, designed specifically for the ABU Robocon 2024 and the Indian national competition DD Robocon. This robot was created to meet the challenges of the "Harvest Day" theme, simulating the tasks of planting rice seedlings and collecting seeds.
+Welcome to the repository for Fully Automatic Robot-2, designed specifically for the ABU Robocon 2024 and the Indian national competition DD Robocon 2024. This robot was created to meet the challenges of the "Harvest Day" theme, simulating the tasks of planting rice seedlings and collecting seeds.
 
 ### Project Overview
 
