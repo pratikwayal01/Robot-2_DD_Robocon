@@ -90,6 +90,7 @@ For any queries or further information, please reach out to [Pratik](https://www
 ---
 
 ## 🚀 Journey of Robocon: DD Robocon 2024 🚀
+[![YouTube](http://i.ytimg.com/vi/BgthHWKqJsY/hqdefault.jpg)](https://www.youtube.com/watch?v=BgthHWKqJsY)
 
 As a programmer, the biggest joy is seeing your code come to life. In robotics, you witness how your code works in real-world scenarios. Seeing your code working is worth having all those sleepless nights and problem-solving troubleshooting days. I had the honor of coding for Robot 2 in DD Robocon 2024, an autonomous robot tasked with reaching Area 3, differentiating between paddy rice (blue or red ball) and empty grain (purple ball), and collecting the paddy rice to store in a silo (basket).
 
